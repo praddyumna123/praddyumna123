@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praddyumna123" alt="praddyumna123" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🌱 I’m currently learning **AWS, MERN, DEV-OPS**
 
 - 👨‍💻 My portfolio link [https://drojng6v5pie9.cloudfront.net/](https://drojng6v5pie9.cloudfront.net/)
