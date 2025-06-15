@@ -7,11 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **AWS, MERN, DEV-OPS**
+- 🌱 I’m currently Working on  **JAVA, Spring BOOT and Redis Cache**
 
 - 👨‍💻 My portfolio link [https://drojng6v5pie9.cloudfront.net/](https://drojng6v5pie9.cloudfront.net/)
 
-- 💬 Ask me about **react.js, javaScript, MERN Stack**
+- 💬 Ask me about **JAVA, C++, javaScript, MERN Stack**
 
 - 📫 How to reach me **praddyumnakandlakarat@gmail.com**
 
